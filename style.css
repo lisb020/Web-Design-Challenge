@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(228, 228, 228);
+}
+
+.col-lg-7, .col-sm-12, .col-lg-4, .col-sm, .col-lg-6, .col-12 {
+    background-color: white;
+}
+
+.marginRow {
+    margin-bottom: -40px!important;
+}
+
+.row {
+    margin-top: 40px;
+}
+
+h3 {
+    color: rgb(0, 128, 94);
+}
+
+h4 {
+    color: rgb(0, 128, 94);
+    text-align: center;
+}
+
+.navbar-brand {
+    background-color: rgb(0, 128, 94);
+    color:white!important;
+    padding: 10px;
+}
+
+@media (max-width: 990px) {
+    .navbar {
+        background-color:rgb(0, 128, 94)!important;
+    }
+}
